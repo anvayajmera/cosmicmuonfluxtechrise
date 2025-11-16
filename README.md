@@ -11,6 +11,7 @@ I made this project because it was the ideal next step for me, as I am well-vers
 <img width="349" height="349" alt="Screenshot 2025-11-15 at 8 40 29 PM" src="https://github.com/user-attachments/assets/0a965a99-20eb-4ef6-a604-a16e2b57359f" />
 
 **Image of CAD payload (inspired by APEX)!**
+<img width="608" height="442" alt="Screenshot 2025-11-15 at 11 05 04 PM" src="https://github.com/user-attachments/assets/ebffa14d-40cd-44d4-967a-f3cfdeeefe5c" />
 
 
 **Link and Image to BOM**
