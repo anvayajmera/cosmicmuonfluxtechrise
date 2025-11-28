@@ -14,7 +14,6 @@ I made this project because it was the ideal next step for me, as I am well-vers
 <img width="608" height="442" alt="Screenshot 2025-11-15 at 11 05 04 PM" src="https://github.com/user-attachments/assets/ebffa14d-40cd-44d4-967a-f3cfdeeefe5c" />
 
 
-**Link and Image to BOM**
-<img width="729" height="531" alt="Screenshot 2025-11-15 at 8 42 35 PM" src="https://github.com/user-attachments/assets/d6438b14-a870-4fa8-b747-f36d846972e7" />
+**Image of BOM**
 
-[BOM.xlsx](https://github.com/user-attachments/files/23565195/BOM.xlsx)
+<img width="598" height="513" alt="Screenshot 2025-11-28 at 4 03 15 PM" src="https://github.com/user-attachments/assets/409526fd-10db-469d-a0f2-881598218ebf" />
