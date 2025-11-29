@@ -16,4 +16,4 @@ I made this project because it was the ideal next step for me, as I am well-vers
 
 **Image of BOM**
 
-<img width="598" height="513" alt="Screenshot 2025-11-28 at 4 03 15 PM" src="https://github.com/user-attachments/assets/409526fd-10db-469d-a0f2-881598218ebf" />
+<img width="809" height="700" alt="Screenshot 2025-11-29 at 10 06 37 AM" src="https://github.com/user-attachments/assets/18ea3b2c-4cd0-4a63-9733-53dbfb88b91a" />
